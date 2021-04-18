@@ -1,5 +1,6 @@
 # Machine-Learning
 These are my projects for SoftUni as well as my work. 
-Mainly you can see Jupyter with EDA and cleaning ofcourse.
+Mainly you can see Jupyter with EDA and cleaning of course. 
 
-<img src="Certiification/TF_Certificate.png"/>
+
+
